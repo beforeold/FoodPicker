@@ -1,0 +1,21 @@
+PODS:
+  - AMapFoundation-NO-IDFA (1.7.0)
+  - AMapSearch-NO-IDFA (9.3.0):
+    - AMapFoundation-NO-IDFA (>= 1.7.0)
+
+DEPENDENCIES:
+  - AMapFoundation-NO-IDFA (= 1.7.0)
+  - AMapSearch-NO-IDFA (= 9.3.0)
+
+SPEC REPOS:
+  trunk:
+    - AMapFoundation-NO-IDFA
+    - AMapSearch-NO-IDFA
+
+SPEC CHECKSUMS:
+  AMapFoundation-NO-IDFA: e191e554859b375f463e52eb6c994e440ebf7126
+  AMapSearch-NO-IDFA: 7d0b4170dd0167dbaead42945a1f6bb2a4085b14
+
+PODFILE CHECKSUM: c69b5b2be92581cbdbbb6c2ffc3635f73af6842a
+
+COCOAPODS: 1.12.1
